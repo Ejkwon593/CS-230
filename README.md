@@ -1,4 +1,5 @@
 CS 230: Operating Platforms - Software Design Document Submission
+
 Summary of The Gaming Room Client and Software Requirements
 The Gaming Room is a client that wanted to expand their existing mobile game, Draw It or Lose It, beyond its Android-only platform. The objective was to design a web-based version that supports multiple teams, enhances scalability, and ensures compatibility across various operating systems, including Windows, macOS, Linux, and mobile devices. The game needed to maintain a seamless user experience while leveraging server-side capabilities for efficient multiplayer management.
 
